@@ -24,6 +24,7 @@ Do not copy one folder into the other. If both domains share one folder, the EU 
 - Weekly timetable, winter semester 2026–2027, years I–IV, from the schedule of 2 October 2026.
 - First-floor plan of the Rectorate (`maps/rectorate-first-floor.jpg` and the PDF). “You are here” is a wayfinding mark on the drawing, not the programme office.
 - Programme, curriculum, team, admissions, careers, African Mosaic, contact.
-- Bulgarian and English, switched in the header. The choice stays in the browser.
+- Bulgarian, English, French and German, switched in the header. The choice stays in the browser. Shared links can use `?lang=en`, `?lang=fr` or `?lang=de`. `/en`, `/fr` and `/de` on the app preview open the same pages.
+- Light and dark mode: sun and moon in the header. The choice stays in the browser.
 
 Plain HTML, CSS and JavaScript. No build step.

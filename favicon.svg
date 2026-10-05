@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="African Studies">
-  <rect width="32" height="32" fill="#1c3d34"/>
-  <path fill="#f4f0e6" d="M4 10.2h10.4c.5 1.5 1.1 2.3 2.1 2.6v11.4c-1.2-.4-2-.9-3-1.1H4V10.2z"/>
-  <path fill="#f4f0e6" d="M28 10.2H17.6c-.5 1.5-1.1 2.3-2.1 2.6v11.4c1.2-.4 2-.9 3-1.1H28V10.2z"/>
-  <rect x="15.15" y="12.4" width="1.7" height="11.2" fill="#9a4e32"/>
+  <rect width="32" height="32" fill="#12352c"/>
+  <rect y="0" width="32" height="4" fill="#14110e"/>
+  <rect y="4" width="32" height="3" fill="#c9a227"/>
+  <rect y="7" width="32" height="4" fill="#1f6b3a"/>
+  <rect y="11" width="32" height="3" fill="#b4332a"/>
+  <path fill="#f6efe2" d="M16 15l7 7-7 7-7-7z"/>
 </svg>

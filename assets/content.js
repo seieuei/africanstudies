@@ -1,14 +1,16 @@
 // @ts-nocheck
 /** African Studies BA only. The EU programmes are a different site. */
+import { extendContent, courseLD, noteLD, roomLD, teacherLD, formLD } from "./locales.js";
+export { UI, NOTES } from "./locales.js";
 
 export const YEARS = [1, 2, 3, 4];
 
 export const DAYS = [
-  { bg: "Понеделник", en: "Monday" },
-  { bg: "Вторник", en: "Tuesday" },
-  { bg: "Сряда", en: "Wednesday" },
-  { bg: "Четвъртък", en: "Thursday" },
-  { bg: "Петък", en: "Friday" },
+  { bg: "Понеделник", en: "Monday", fr: "Lundi", de: "Montag" },
+  { bg: "Вторник", en: "Tuesday", fr: "Mardi", de: "Dienstag" },
+  { bg: "Сряда", en: "Wednesday", fr: "Mercredi", de: "Mittwoch" },
+  { bg: "Четвъртък", en: "Thursday", fr: "Jeudi", de: "Donnerstag" },
+  { bg: "Петък", en: "Friday", fr: "Vendredi", de: "Freitag" },
 ];
 
 const f = {
@@ -74,13 +76,20 @@ export const SCHEDULE = {
 };
 
 function s(day, start, end, bg, en, form, teacherBg, teacherEn, roomBg, roomEn, kind, noteBg, noteEn) {
+  const [fr, de] = courseLD(en);
+  const noted = noteEn ? noteLD(noteEn) : null;
   return {
     day, start, end, kind,
-    course: { bg, en },
-    form,
-    teacher: { bg: teacherBg, en: teacherEn },
-    room: { bg: roomBg, en: roomEn },
-    note: noteBg ? { bg: noteBg, en: noteEn } : null,
+    course: { bg, en, fr, de },
+    form: { ...form, ...formLD(form.bg) },
+    teacher: {
+      bg: teacherBg,
+      en: teacherEn,
+      fr: teacherLD(teacherEn, "fr"),
+      de: teacherLD(teacherEn, "de"),
+    },
+    room: { bg: roomBg, en: roomEn, fr: roomLD(roomEn, "fr"), de: roomLD(roomEn, "de") },
+    note: noteBg ? { bg: noteBg, en: noteEn, fr: noted[0], de: noted[1] } : null,
   };
 }
 
@@ -92,7 +101,7 @@ export const KINDS = {
   ling: { bg: "Езикознание", en: "Linguistics", swatch: "bg-forest-2" },
   lit: { bg: "Литератури", en: "Literatures", swatch: "bg-wine" },
   myth: { bg: "Митология и изкуство", en: "Mythology and art", swatch: "bg-clay" },
-  af: { bg: "Африкански изследвания", en: "African studies", swatch: "bg-forest" },
+  af: { bg: "Африкански изследвания", en: "African studies", swatch: "bg-band" },
   teach: { bg: "Профил учител", en: "Teacher track", swatch: "bg-teach" },
 };
 
@@ -363,5 +372,8 @@ export const SOCIAL = [
 ];
 
 export function pick(lang, pair) {
-  return pair[lang] ?? pair.bg;
+  if (!pair) return "";
+  return pair[lang] || pair.en || pair.bg || "";
 }
+
+extendContent({ COPY, PAGES, TEAM, COUNCIL, KINDS });
