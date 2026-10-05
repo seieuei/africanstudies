@@ -1,0 +1,37 @@
+DirectoryIndex index.html
+RewriteEngine On
+
+# Old African Studies paths, and the EU pages that were uploaded onto this domain by mistake.
+RewriteRule ^ucheben-plan/?$ /plan.html [R=302,L]
+RewriteRule ^en(/.*)?$ / [R=302,L]
+RewriteRule ^bg(/.*)?$ / [R=302,L]
+RewriteRule ^ba\.html$ / [R=302,L]
+RewriteRule ^ma\.html$ / [R=302,L]
+RewriteRule ^bachelor\.html$ / [R=302,L]
+RewriteRule ^master\.html$ / [R=302,L]
+RewriteRule ^lecturers\.html$ /ekip.html [R=302,L]
+RewriteRule ^timetable\.html$ /razpis.html [R=302,L]
+RewriteRule ^schedule\.html$ /razpis.html [R=302,L]
+RewriteRule ^map\.html$ /rektorat.html [R=302,L]
+RewriteRule ^apply\.html$ /priem.html [R=302,L]
+RewriteRule ^official\.html$ /priem.html [R=302,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^programa/?$ /programa.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^plan/?$ /plan.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^razpis/?$ /razpis.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^rektorat/?$ /rektorat.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ekip/?$ /ekip.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^priem/?$ /priem.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^kariera/?$ /kariera.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^mosaic/?$ /mosaic.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^kontakt/?$ /kontakt.html [L]
