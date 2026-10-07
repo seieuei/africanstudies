@@ -1,0 +1,3297 @@
+[
+ {
+  "id": "room-12",
+  "code": "12",
+  "nameBg": "Стая 12",
+  "nameEn": "Room 12",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "12",
+   "стая 12",
+   "room 12",
+   "стая12",
+   "room12"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   64.3,
+   57.9
+  ],
+  "poly": [
+   [
+    63.5,
+    58.3
+   ],
+   [
+    65.1,
+    58.3
+   ],
+   [
+    65.1,
+    60.5
+   ],
+   [
+    63.5,
+    60.5
+   ]
+  ]
+ },
+ {
+  "id": "room-13",
+  "code": "13",
+  "nameBg": "Стая 13",
+  "nameEn": "Room 13",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "13",
+   "стая 13",
+   "room 13",
+   "стая13",
+   "room13"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   65.8,
+   55.9
+  ],
+  "poly": [
+   [
+    65.1,
+    55.6
+   ],
+   [
+    67.2,
+    55.6
+   ],
+   [
+    67.2,
+    58.7
+   ],
+   [
+    65.1,
+    58.7
+   ]
+  ]
+ },
+ {
+  "id": "room-14",
+  "code": "14",
+  "nameBg": "Стая 14",
+  "nameEn": "Room 14",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "14",
+   "стая 14",
+   "room 14",
+   "стая14",
+   "room14"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   67.4,
+   53.7
+  ],
+  "poly": [
+   [
+    67.1,
+    54.0
+   ],
+   [
+    68.5,
+    54.0
+   ],
+   [
+    68.5,
+    56.1
+   ],
+   [
+    67.1,
+    56.1
+   ]
+  ]
+ },
+ {
+  "id": "room-15",
+  "code": "15",
+  "nameBg": "Стая 15",
+  "nameEn": "Room 15",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "15",
+   "стая 15",
+   "room 15",
+   "стая15",
+   "room15"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   69.0,
+   51.4
+  ],
+  "poly": [
+   [
+    68.4,
+    51.7
+   ],
+   [
+    70.0,
+    51.7
+   ],
+   [
+    70.0,
+    53.9
+   ],
+   [
+    68.4,
+    53.9
+   ]
+  ]
+ },
+ {
+  "id": "room-15a",
+  "code": "15a",
+  "nameBg": "Стая 15a",
+  "nameEn": "Room 15a",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "15a",
+   "стая 15a",
+   "room 15a",
+   "стая15a",
+   "room15a"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   69.7,
+   49.3
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-16",
+  "code": "16",
+  "nameBg": "Стая 16",
+  "nameEn": "Room 16",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "16",
+   "стая 16",
+   "room 16",
+   "стая16",
+   "room16"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   71.6,
+   46.5
+  ],
+  "poly": [
+   [
+    71.3,
+    46.7
+   ],
+   [
+    72.8,
+    46.7
+   ],
+   [
+    72.8,
+    48.9
+   ],
+   [
+    71.3,
+    48.9
+   ]
+  ]
+ },
+ {
+  "id": "room-17",
+  "code": "17",
+  "nameBg": "Стая 17",
+  "nameEn": "Room 17",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "17",
+   "стая 17",
+   "room 17",
+   "стая17",
+   "room17"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   72.9,
+   44.1
+  ],
+  "poly": [
+   [
+    72.5,
+    44.0
+   ],
+   [
+    74.1,
+    44.0
+   ],
+   [
+    74.1,
+    46.5
+   ],
+   [
+    72.5,
+    46.5
+   ]
+  ]
+ },
+ {
+  "id": "room-18",
+  "code": "18",
+  "nameBg": "Стая 18",
+  "nameEn": "Room 18",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "18",
+   "стая 18",
+   "room 18",
+   "стая18",
+   "room18"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   74.0,
+   41.5
+  ],
+  "poly": [
+   [
+    73.6,
+    41.5
+   ],
+   [
+    75.3,
+    41.5
+   ],
+   [
+    75.3,
+    44.0
+   ],
+   [
+    73.6,
+    44.0
+   ]
+  ]
+ },
+ {
+  "id": "room-19",
+  "code": "19",
+  "nameBg": "Стая 19",
+  "nameEn": "Room 19",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "19",
+   "стая 19",
+   "room 19",
+   "стая19",
+   "room19"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   75.1,
+   38.9
+  ],
+  "poly": [
+   [
+    74.6,
+    38.8
+   ],
+   [
+    76.5,
+    38.8
+   ],
+   [
+    76.5,
+    41.4
+   ],
+   [
+    74.6,
+    41.4
+   ]
+  ]
+ },
+ {
+  "id": "room-20",
+  "code": "20",
+  "nameBg": "Стая 20",
+  "nameEn": "Room 20",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "20",
+   "стая 20",
+   "room 20",
+   "стая20",
+   "room20"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   76.8,
+   35.5
+  ],
+  "poly": [
+   [
+    75.0,
+    34.6
+   ],
+   [
+    78.8,
+    34.6
+   ],
+   [
+    78.8,
+    38.8
+   ],
+   [
+    75.0,
+    38.8
+   ]
+  ]
+ },
+ {
+  "id": "room-5",
+  "code": "5",
+  "nameBg": "Стая 5",
+  "nameEn": "Room 5",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "5",
+   "стая 5",
+   "room 5",
+   "стая5",
+   "room5"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   82.7,
+   40.6
+  ],
+  "poly": [
+   [
+    80.8,
+    38.8
+   ],
+   [
+    82.3,
+    38.8
+   ],
+   [
+    82.3,
+    41.8
+   ],
+   [
+    80.8,
+    41.8
+   ]
+  ]
+ },
+ {
+  "id": "room-6",
+  "code": "6",
+  "nameBg": "Стая 6",
+  "nameEn": "Room 6",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "6",
+   "стая 6",
+   "room 6",
+   "стая6",
+   "room6"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   81.3,
+   43.2
+  ],
+  "poly": [
+   [
+    79.7,
+    41.7
+   ],
+   [
+    81.0,
+    41.7
+   ],
+   [
+    81.0,
+    44.0
+   ],
+   [
+    79.7,
+    44.0
+   ]
+  ]
+ },
+ {
+  "id": "room-7",
+  "code": "7",
+  "nameBg": "Стая 7",
+  "nameEn": "Room 7",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "7",
+   "стая 7",
+   "room 7",
+   "стая7",
+   "room7"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   80.2,
+   45.6
+  ],
+  "poly": [
+   [
+    78.5,
+    44.0
+   ],
+   [
+    79.8,
+    44.0
+   ],
+   [
+    79.8,
+    46.5
+   ],
+   [
+    78.5,
+    46.5
+   ]
+  ]
+ },
+ {
+  "id": "room-8",
+  "code": "8",
+  "nameBg": "Стая 8",
+  "nameEn": "Room 8",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "8",
+   "стая 8",
+   "room 8",
+   "стая8",
+   "room8"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   79.0,
+   48.2
+  ],
+  "poly": [
+   [
+    77.1,
+    46.3
+   ],
+   [
+    78.7,
+    46.3
+   ],
+   [
+    78.7,
+    48.8
+   ],
+   [
+    77.1,
+    48.8
+   ]
+  ]
+ },
+ {
+  "id": "room-9",
+  "code": "9",
+  "nameBg": "Стая 9",
+  "nameEn": "Room 9",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "9",
+   "стая 9",
+   "room 9",
+   "стая9",
+   "room9"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   77.9,
+   50.5
+  ],
+  "poly": [
+   [
+    76.0,
+    48.7
+   ],
+   [
+    77.6,
+    48.7
+   ],
+   [
+    77.6,
+    51.2
+   ],
+   [
+    76.0,
+    51.2
+   ]
+  ]
+ },
+ {
+  "id": "room-11",
+  "code": "11",
+  "nameBg": "Стая 11",
+  "nameEn": "Room 11",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "11",
+   "стая 11",
+   "room 11",
+   "стая11",
+   "room11"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   68.3,
+   65.2
+  ],
+  "poly": [
+   [
+    66.6,
+    63.5
+   ],
+   [
+    68.0,
+    63.5
+   ],
+   [
+    68.0,
+    66.0
+   ],
+   [
+    66.6,
+    66.0
+   ]
+  ]
+ },
+ {
+  "id": "room-11a",
+  "code": "11a",
+  "nameBg": "Стая 11a",
+  "nameEn": "Room 11a",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "11a",
+   "стая 11a",
+   "room 11a",
+   "стая11a",
+   "room11a"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   70.2,
+   61.9
+  ],
+  "poly": [
+   [
+    68.2,
+    59.8
+   ],
+   [
+    71.9,
+    59.8
+   ],
+   [
+    71.9,
+    65.0
+   ],
+   [
+    68.2,
+    65.0
+   ]
+  ]
+ },
+ {
+  "id": "room-21",
+  "code": "21",
+  "nameBg": "Стая 21",
+  "nameEn": "Room 21",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "21",
+   "стая 21",
+   "room 21",
+   "стая21",
+   "room21"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   74.5,
+   30.0
+  ],
+  "poly": [
+   [
+    72.6,
+    26.5
+   ],
+   [
+    77.0,
+    26.5
+   ],
+   [
+    77.0,
+    31.2
+   ],
+   [
+    72.6,
+    31.2
+   ]
+  ]
+ },
+ {
+  "id": "room-21a",
+  "code": "21a",
+  "nameBg": "Стая 21a",
+  "nameEn": "Room 21a",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "21a",
+   "стая 21a",
+   "room 21a",
+   "стая21a",
+   "room21a"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   70.8,
+   26.7
+  ],
+  "poly": [
+   [
+    69.2,
+    23.6
+   ],
+   [
+    73.8,
+    23.6
+   ],
+   [
+    73.8,
+    29.8
+   ],
+   [
+    69.2,
+    29.8
+   ]
+  ]
+ },
+ {
+  "id": "room-22",
+  "code": "22",
+  "nameBg": "Стая 22",
+  "nameEn": "Room 22",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "22",
+   "стая 22",
+   "room 22",
+   "стая22",
+   "room22"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   68.6,
+   24.7
+  ],
+  "poly": [
+   [
+    68.2,
+    22.1
+   ],
+   [
+    70.3,
+    22.1
+   ],
+   [
+    70.3,
+    24.9
+   ],
+   [
+    68.2,
+    24.9
+   ]
+  ]
+ },
+ {
+  "id": "room-23",
+  "code": "23",
+  "nameBg": "Стая 23",
+  "nameEn": "Room 23",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "23",
+   "стая 23",
+   "room 23",
+   "стая23",
+   "room23"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   75.8,
+   19.5
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-24",
+  "code": "24",
+  "nameBg": "Стая 24",
+  "nameEn": "Room 24",
+  "wing": "south",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "24",
+   "стая 24",
+   "room 24",
+   "стая24",
+   "room24"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   79.8,
+   23.2
+  ],
+  "poly": [
+   [
+    78.9,
+    20.5
+   ],
+   [
+    81.0,
+    20.5
+   ],
+   [
+    81.0,
+    23.1
+   ],
+   [
+    78.9,
+    23.1
+   ]
+  ]
+ },
+ {
+  "id": "room-112",
+  "code": "112",
+  "nameBg": "Стая 112",
+  "nameEn": "Room 112",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "112",
+   "стая 112",
+   "room 112",
+   "стая112",
+   "room112",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   53.3,
+   46.1
+  ],
+  "poly": [
+   [
+    52.8,
+    46.0
+   ],
+   [
+    55.1,
+    46.0
+   ],
+   [
+    55.1,
+    48.7
+   ],
+   [
+    52.8,
+    48.7
+   ]
+  ]
+ },
+ {
+  "id": "room-113",
+  "code": "113",
+  "nameBg": "Стая 113",
+  "nameEn": "Room 113",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "113",
+   "стая 113",
+   "room 113",
+   "стая113",
+   "room113",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   51.5,
+   41.4
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-114",
+  "code": "114",
+  "nameBg": "Стая 114",
+  "nameEn": "Room 114",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "114",
+   "стая 114",
+   "room 114",
+   "стая114",
+   "room114",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   48.8,
+   41.7
+  ],
+  "poly": [
+   [
+    47.2,
+    39.4
+   ],
+   [
+    50.2,
+    39.4
+   ],
+   [
+    50.2,
+    44.0
+   ],
+   [
+    47.2,
+    44.0
+   ]
+  ]
+ },
+ {
+  "id": "room-115",
+  "code": "115",
+  "nameBg": "Стая 115",
+  "nameEn": "Room 115",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "115",
+   "стая 115",
+   "room 115",
+   "стая115",
+   "room115",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   46.8,
+   42.9
+  ],
+  "poly": [
+   [
+    45.3,
+    40.7
+   ],
+   [
+    48.2,
+    40.7
+   ],
+   [
+    48.2,
+    45.2
+   ],
+   [
+    45.3,
+    45.2
+   ]
+  ]
+ },
+ {
+  "id": "room-116",
+  "code": "116",
+  "nameBg": "Стая 116",
+  "nameEn": "Room 116",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "116",
+   "стая 116",
+   "room 116",
+   "стая116",
+   "room116",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   44.7,
+   44.2
+  ],
+  "poly": [
+   [
+    43.0,
+    43.1
+   ],
+   [
+    44.8,
+    43.1
+   ],
+   [
+    44.8,
+    46.4
+   ],
+   [
+    43.0,
+    46.4
+   ]
+  ]
+ },
+ {
+  "id": "room-117",
+  "code": "117",
+  "nameBg": "Стая 117",
+  "nameEn": "Room 117",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "117",
+   "стая 117",
+   "room 117",
+   "стая117",
+   "room117",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   42.4,
+   45.6
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-118",
+  "code": "118",
+  "nameBg": "Стая 118",
+  "nameEn": "Room 118",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "118",
+   "стая 118",
+   "room 118",
+   "стая118",
+   "room118",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   40.6,
+   46.9
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-119",
+  "code": "119",
+  "nameBg": "Стая 119",
+  "nameEn": "Room 119",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "119",
+   "стая 119",
+   "room 119",
+   "стая119",
+   "room119",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   38.8,
+   49.2
+  ],
+  "poly": [
+   [
+    37.3,
+    46.5
+   ],
+   [
+    39.3,
+    46.5
+   ],
+   [
+    39.3,
+    49.1
+   ],
+   [
+    37.3,
+    49.1
+   ]
+  ]
+ },
+ {
+  "id": "room-120",
+  "code": "120",
+  "nameBg": "Стая 120",
+  "nameEn": "Room 120",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "120",
+   "стая 120",
+   "room 120",
+   "стая120",
+   "room120",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   39.8,
+   55.1
+  ],
+  "poly": [
+   [
+    38.8,
+    54.9
+   ],
+   [
+    41.4,
+    54.9
+   ],
+   [
+    41.4,
+    57.8
+   ],
+   [
+    38.8,
+    57.8
+   ]
+  ]
+ },
+ {
+  "id": "room-120a",
+  "code": "120a",
+  "nameBg": "Стая 120a",
+  "nameEn": "Room 120a",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "120a",
+   "стая 120a",
+   "room 120a",
+   "стая120a",
+   "room120a",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   40.3,
+   58.5
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-121",
+  "code": "121",
+  "nameBg": "Стая 121",
+  "nameEn": "Room 121",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "121",
+   "стая 121",
+   "room 121",
+   "стая121",
+   "room121",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   42.8,
+   72.0
+  ],
+  "poly": [
+   [
+    41.5,
+    72.3
+   ],
+   [
+    44.0,
+    72.3
+   ],
+   [
+    44.0,
+    74.9
+   ],
+   [
+    41.5,
+    74.9
+   ]
+  ]
+ },
+ {
+  "id": "room-121a",
+  "code": "121a",
+  "nameBg": "Стая 121a",
+  "nameEn": "Room 121a",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "121a",
+   "стая 121a",
+   "room 121a",
+   "стая121a",
+   "room121a",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   41.5,
+   66.8
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-111a",
+  "code": "111a",
+  "nameBg": "Стая 111a",
+  "nameEn": "Room 111a",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "111a",
+   "стая 111a",
+   "room 111a",
+   "стая111a",
+   "room111a",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   58.8,
+   55.9
+  ],
+  "poly": [
+   [
+    53.4,
+    50.4
+   ],
+   [
+    58.1,
+    50.4
+   ],
+   [
+    58.1,
+    58.8
+   ],
+   [
+    53.4,
+    58.8
+   ]
+  ]
+ },
+ {
+  "id": "room-112a",
+  "code": "112a",
+  "nameBg": "Стая 112a",
+  "nameEn": "Room 112a",
+  "wing": "center",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "112a",
+   "стая 112a",
+   "room 112a",
+   "стая112a",
+   "room112a",
+   "деловодство",
+   "secretariat"
+  ],
+  "noteBg": "Част от деловодството, първи етаж.",
+  "noteEn": "Part of the secretariat, first floor.",
+  "point": [
+   55.2,
+   49.4
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-211",
+  "code": "211",
+  "nameBg": "Стая 211",
+  "nameEn": "Room 211",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "211",
+   "стая 211",
+   "room 211",
+   "стая211",
+   "room211"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   9.0,
+   70.9
+  ],
+  "poly": [
+   [
+    9.2,
+    69.3
+   ],
+   [
+    10.7,
+    69.3
+   ],
+   [
+    10.7,
+    72.4
+   ],
+   [
+    9.2,
+    72.4
+   ]
+  ]
+ },
+ {
+  "id": "room-212",
+  "code": "212",
+  "nameBg": "Стая 212",
+  "nameEn": "Room 212",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "212",
+   "стая 212",
+   "room 212",
+   "стая212",
+   "room212"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.8,
+   65.5
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-213",
+  "code": "213",
+  "nameBg": "Стая 213",
+  "nameEn": "Room 213",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "213",
+   "стая 213",
+   "room 213",
+   "стая213",
+   "room213"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   9.0,
+   56.8
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-214",
+  "code": "214",
+  "nameBg": "Сектор „Докторанти“",
+  "nameEn": "PhD students' sector",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "214",
+   "стая 214",
+   "room 214",
+   "стая214",
+   "room214",
+   "докторанти",
+   "докторант",
+   "phd",
+   "doctoral",
+   "sector phd",
+   "сектор докторанти"
+  ],
+  "noteBg": "Стая 214, първи етаж, северно крило.",
+  "noteEn": "Room 214, first floor, north wing.",
+  "point": [
+   9.8,
+   50.6
+  ],
+  "poly": [
+   [
+    6.9,
+    49.2
+   ],
+   [
+    11.2,
+    49.2
+   ],
+   [
+    11.2,
+    52.3
+   ],
+   [
+    6.9,
+    52.3
+   ]
+  ]
+ },
+ {
+  "id": "room-215",
+  "code": "215",
+  "nameBg": "Стая 215",
+  "nameEn": "Room 215",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "215",
+   "стая 215",
+   "room 215",
+   "стая215",
+   "room215"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.8,
+   47.6
+  ],
+  "poly": [
+   [
+    6.9,
+    46.1
+   ],
+   [
+    8.5,
+    46.1
+   ],
+   [
+    8.5,
+    49.1
+   ],
+   [
+    6.9,
+    49.1
+   ]
+  ]
+ },
+ {
+  "id": "room-216",
+  "code": "216",
+  "nameBg": "Стая 216",
+  "nameEn": "Room 216",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "216",
+   "стая 216",
+   "room 216",
+   "стая216",
+   "room216"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   9.0,
+   44.2
+  ],
+  "poly": [
+   [
+    6.9,
+    42.9
+   ],
+   [
+    8.7,
+    42.9
+   ],
+   [
+    8.7,
+    46.0
+   ],
+   [
+    6.9,
+    46.0
+   ]
+  ]
+ },
+ {
+  "id": "room-217",
+  "code": "217",
+  "nameBg": "Стая 217",
+  "nameEn": "Room 217",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "217",
+   "стая 217",
+   "room 217",
+   "стая217",
+   "room217"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.6,
+   40.8
+  ],
+  "poly": [
+   [
+    6.9,
+    39.8
+   ],
+   [
+    8.3,
+    39.8
+   ],
+   [
+    8.3,
+    42.9
+   ],
+   [
+    6.9,
+    42.9
+   ]
+  ]
+ },
+ {
+  "id": "room-218",
+  "code": "218",
+  "nameBg": "Стая 218",
+  "nameEn": "Room 218",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "218",
+   "стая 218",
+   "room 218",
+   "стая218",
+   "room218"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.8,
+   36.4
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-219",
+  "code": "219",
+  "nameBg": "Стая 219",
+  "nameEn": "Room 219",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "219",
+   "стая 219",
+   "room 219",
+   "стая219",
+   "room219"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.8,
+   30.7
+  ],
+  "poly": null
+ },
+ {
+  "id": "room-220",
+  "code": "220",
+  "nameBg": "Стая 220",
+  "nameEn": "Room 220",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "220",
+   "стая 220",
+   "room 220",
+   "стая220",
+   "room220"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   8.8,
+   26.3
+  ],
+  "poly": [
+   [
+    6.9,
+    24.4
+   ],
+   [
+    8.5,
+    24.4
+   ],
+   [
+    8.5,
+    28.1
+   ],
+   [
+    6.9,
+    28.1
+   ]
+  ]
+ },
+ {
+  "id": "room-221",
+  "code": "221",
+  "nameBg": "Стая 221",
+  "nameEn": "Room 221",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "221",
+   "стая 221",
+   "room 221",
+   "стая221",
+   "room221"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   15.4,
+   26.8
+  ],
+  "poly": [
+   [
+    13.3,
+    24.4
+   ],
+   [
+    17.5,
+    24.4
+   ],
+   [
+    17.5,
+    28.1
+   ],
+   [
+    13.3,
+    28.1
+   ]
+  ]
+ },
+ {
+  "id": "room-222",
+  "code": "222",
+  "nameBg": "Стая 222",
+  "nameEn": "Room 222",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "222",
+   "стая 222",
+   "room 222",
+   "стая222",
+   "room222"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   15.7,
+   34.8
+  ],
+  "poly": [
+   [
+    13.3,
+    31.2
+   ],
+   [
+    17.5,
+    31.2
+   ],
+   [
+    17.5,
+    39.7
+   ],
+   [
+    13.3,
+    39.7
+   ]
+  ]
+ },
+ {
+  "id": "room-223",
+  "code": "223",
+  "nameBg": "Стая 223",
+  "nameEn": "Room 223",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "223",
+   "стая 223",
+   "room 223",
+   "стая223",
+   "room223"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   15.7,
+   49.8
+  ],
+  "poly": [
+   [
+    13.3,
+    45.9
+   ],
+   [
+    17.5,
+    45.9
+   ],
+   [
+    17.5,
+    54.9
+   ],
+   [
+    13.3,
+    54.9
+   ]
+  ]
+ },
+ {
+  "id": "room-224",
+  "code": "224",
+  "nameBg": "Стая 224",
+  "nameEn": "Room 224",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "224",
+   "стая 224",
+   "room 224",
+   "стая224",
+   "room224"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   15.7,
+   65.2
+  ],
+  "poly": [
+   [
+    13.3,
+    60.9
+   ],
+   [
+    17.5,
+    60.9
+   ],
+   [
+    17.5,
+    72.4
+   ],
+   [
+    13.3,
+    72.4
+   ]
+  ]
+ },
+ {
+  "id": "room-225",
+  "code": "225",
+  "nameBg": "Стая 225",
+  "nameEn": "Room 225",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "225",
+   "стая 225",
+   "room 225",
+   "стая225",
+   "room225"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   18.7,
+   75.0
+  ],
+  "poly": [
+   [
+    16.6,
+    72.9
+   ],
+   [
+    19.5,
+    72.9
+   ],
+   [
+    19.5,
+    77.8
+   ],
+   [
+    16.6,
+    77.8
+   ]
+  ]
+ },
+ {
+  "id": "room-226",
+  "code": "226",
+  "nameBg": "Стая 226",
+  "nameEn": "Room 226",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "226",
+   "стая 226",
+   "room 226",
+   "стая226",
+   "room226"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   21.4,
+   75.0
+  ],
+  "poly": [
+   [
+    19.6,
+    72.9
+   ],
+   [
+    23.2,
+    72.9
+   ],
+   [
+    23.2,
+    77.8
+   ],
+   [
+    19.6,
+    77.8
+   ]
+  ]
+ },
+ {
+  "id": "room-227",
+  "code": "227",
+  "nameBg": "Стая 227",
+  "nameEn": "Room 227",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "227",
+   "стая 227",
+   "room 227",
+   "стая227",
+   "room227"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   24.7,
+   75.0
+  ],
+  "poly": [
+   [
+    23.4,
+    75.4
+   ],
+   [
+    25.4,
+    75.4
+   ],
+   [
+    25.4,
+    77.2
+   ],
+   [
+    23.4,
+    77.2
+   ]
+  ]
+ },
+ {
+  "id": "room-228",
+  "code": "228",
+  "nameBg": "Стая 228",
+  "nameEn": "Room 228",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "228",
+   "стая 228",
+   "room 228",
+   "стая228",
+   "room228"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   26.5,
+   75.0
+  ],
+  "poly": [
+   [
+    25.5,
+    75.4
+   ],
+   [
+    27.5,
+    75.4
+   ],
+   [
+    27.5,
+    77.2
+   ],
+   [
+    25.5,
+    77.2
+   ]
+  ]
+ },
+ {
+  "id": "room-229",
+  "code": "229",
+  "nameBg": "Стая 229",
+  "nameEn": "Room 229",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "229",
+   "стая 229",
+   "room 229",
+   "стая229",
+   "room229"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   28.7,
+   75.0
+  ],
+  "poly": [
+   [
+    27.7,
+    75.4
+   ],
+   [
+    29.7,
+    75.4
+   ],
+   [
+    29.7,
+    77.1
+   ],
+   [
+    27.7,
+    77.1
+   ]
+  ]
+ },
+ {
+  "id": "room-230",
+  "code": "230",
+  "nameBg": "Стая 230",
+  "nameEn": "Room 230",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "230",
+   "стая 230",
+   "room 230",
+   "стая230",
+   "room230"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   30.8,
+   75.0
+  ],
+  "poly": [
+   [
+    29.8,
+    72.8
+   ],
+   [
+    31.7,
+    72.8
+   ],
+   [
+    31.7,
+    74.9
+   ],
+   [
+    29.8,
+    74.9
+   ]
+  ]
+ },
+ {
+  "id": "room-231",
+  "code": "231",
+  "nameBg": "Стая 231",
+  "nameEn": "Room 231",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "231",
+   "стая 231",
+   "room 231",
+   "стая231",
+   "room231"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   32.9,
+   74.8
+  ],
+  "poly": [
+   [
+    31.8,
+    72.7
+   ],
+   [
+    33.7,
+    72.7
+   ],
+   [
+    33.7,
+    74.6
+   ],
+   [
+    31.8,
+    74.6
+   ]
+  ]
+ },
+ {
+  "id": "room-232",
+  "code": "232",
+  "nameBg": "Стая 232",
+  "nameEn": "Room 232",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "232",
+   "стая 232",
+   "room 232",
+   "стая232",
+   "room232"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   35.1,
+   74.8
+  ],
+  "poly": [
+   [
+    33.8,
+    72.7
+   ],
+   [
+    35.9,
+    72.7
+   ],
+   [
+    35.9,
+    74.6
+   ],
+   [
+    33.8,
+    74.6
+   ]
+  ]
+ },
+ {
+  "id": "room-233",
+  "code": "233",
+  "nameBg": "Стая 233",
+  "nameEn": "Room 233",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "233",
+   "стая 233",
+   "room 233",
+   "стая233",
+   "room233"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   37.4,
+   74.8
+  ],
+  "poly": [
+   [
+    36.0,
+    72.6
+   ],
+   [
+    38.1,
+    72.6
+   ],
+   [
+    38.1,
+    74.6
+   ],
+   [
+    36.0,
+    74.6
+   ]
+  ]
+ },
+ {
+  "id": "room-234",
+  "code": "234",
+  "nameBg": "Стая 234",
+  "nameEn": "Room 234",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "234",
+   "стая 234",
+   "room 234",
+   "стая234",
+   "room234"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   39.7,
+   74.4
+  ],
+  "poly": [
+   [
+    38.5,
+    74.7
+   ],
+   [
+    40.5,
+    74.7
+   ],
+   [
+    40.5,
+    76.6
+   ],
+   [
+    38.5,
+    76.6
+   ]
+  ]
+ },
+ {
+  "id": "room-236",
+  "code": "236",
+  "nameBg": "Стая 236",
+  "nameEn": "Room 236",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "236",
+   "стая 236",
+   "room 236",
+   "стая236",
+   "room236"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   31.8,
+   82.9
+  ],
+  "poly": [
+   [
+    29.8,
+    80.9
+   ],
+   [
+    33.8,
+    80.9
+   ],
+   [
+    33.8,
+    85.8
+   ],
+   [
+    29.8,
+    85.8
+   ]
+  ]
+ },
+ {
+  "id": "room-237",
+  "code": "237",
+  "nameBg": "Стая 237",
+  "nameEn": "Room 237",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "237",
+   "стая 237",
+   "room 237",
+   "стая237",
+   "room237"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   28.7,
+   82.9
+  ],
+  "poly": [
+   [
+    27.7,
+    83.2
+   ],
+   [
+    29.7,
+    83.2
+   ],
+   [
+    29.7,
+    85.9
+   ],
+   [
+    27.7,
+    85.9
+   ]
+  ]
+ },
+ {
+  "id": "room-238",
+  "code": "238",
+  "nameBg": "Стая 238",
+  "nameEn": "Room 238",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "238",
+   "стая 238",
+   "room 238",
+   "стая238",
+   "room238"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   25.5,
+   82.9
+  ],
+  "poly": [
+   [
+    23.5,
+    81.0
+   ],
+   [
+    27.6,
+    81.0
+   ],
+   [
+    27.6,
+    85.9
+   ],
+   [
+    23.5,
+    85.9
+   ]
+  ]
+ },
+ {
+  "id": "room-239",
+  "code": "239",
+  "nameBg": "Стая 239",
+  "nameEn": "Room 239",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "239",
+   "стая 239",
+   "room 239",
+   "стая239",
+   "room239"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   22.4,
+   83.2
+  ],
+  "poly": [
+   [
+    21.3,
+    83.6
+   ],
+   [
+    23.4,
+    83.6
+   ],
+   [
+    23.4,
+    85.9
+   ],
+   [
+    21.3,
+    85.9
+   ]
+  ]
+ },
+ {
+  "id": "room-240",
+  "code": "240",
+  "nameBg": "Стая 240",
+  "nameEn": "Room 240",
+  "wing": "north",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "room",
+  "aliases": [
+   "240",
+   "стая 240",
+   "room 240",
+   "стая240",
+   "room240"
+  ],
+  "noteBg": null,
+  "noteEn": null,
+  "point": [
+   19.4,
+   83.2
+  ],
+  "poly": [
+   [
+    16.6,
+    81.0
+   ],
+   [
+    21.2,
+    81.0
+   ],
+   [
+    21.2,
+    85.9
+   ],
+   [
+    16.6,
+    85.9
+   ]
+  ]
+ },
+ {
+  "id": "hall-1",
+  "code": "1",
+  "nameBg": "Зала 1",
+  "nameEn": "Hall 1",
+  "wing": "south",
+  "kind": "hall",
+  "aliases": [
+   "зала 1",
+   "зала1",
+   "hall 1",
+   "hall1",
+   "orange hall"
+  ],
+  "noteBg": "Оранжевата зала на първия етаж, южно крило.",
+  "noteEn": "The orange hall on the first floor, south wing.",
+  "point": [
+   74.0,
+   56.0
+  ],
+  "poly": [
+   [
+    70.2,
+    50.2
+   ],
+   [
+    77.9,
+    50.2
+   ],
+   [
+    77.9,
+    61.9
+   ],
+   [
+    70.2,
+    61.9
+   ]
+  ],
+  "onPlan": true,
+  "floor": 1
+ },
+ {
+  "id": "hall-2",
+  "code": "2",
+  "nameBg": "Зала 2",
+  "nameEn": "Hall 2",
+  "wing": "north",
+  "kind": "hall",
+  "aliases": [
+   "зала 2",
+   "зала2",
+   "hall 2",
+   "hall2",
+   "green hall"
+  ],
+  "noteBg": "Зелената зала на първия етаж, до северното крило.",
+  "noteEn": "The green hall on the first floor, beside the north wing.",
+  "point": [
+   37.9,
+   82.9
+  ],
+  "poly": [
+   [
+    33.9,
+    80.0
+   ],
+   [
+    42.0,
+    80.0
+   ],
+   [
+    42.0,
+    85.7
+   ],
+   [
+    33.9,
+    85.7
+   ]
+  ],
+  "onPlan": true,
+  "floor": 1
+ },
+ {
+  "id": "aula",
+  "nameBg": "Аула",
+  "nameEn": "Aula",
+  "wing": "center",
+  "kind": "wayfinding",
+  "aliases": [
+   "аула",
+   "aula",
+   "зала аула",
+   "ceremonial hall"
+  ],
+  "noteBg": "От първия етаж се качва по стълбата с надпис „нагоре към зала АУЛА“.",
+  "noteEn": "From this floor, take the stair marked “up to the AULA”.",
+  "point": [
+   51.2,
+   64.4
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "secretariat",
+  "nameBg": "Деловодство",
+  "nameEn": "Secretariat",
+  "wing": "center",
+  "kind": "service",
+  "aliases": [
+   "деловодство",
+   "secretariat",
+   "дела"
+  ],
+  "noteBg": "Центърът на сградата. Стаи 112–121 са към деловодството.",
+  "noteEn": "Centre of the building. Rooms 112–121 belong to the secretariat.",
+  "point": [
+   44.5,
+   37.4
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "library",
+  "nameBg": "Университетска библиотека",
+  "nameEn": "University library",
+  "wing": "library",
+  "kind": "service",
+  "aliases": [
+   "библиотека",
+   "library",
+   "university library",
+   "университетска библиотека"
+  ],
+  "noteBg": "Отделна сграда до ректората, показана в горната част на плана.",
+  "noteEn": "A separate building next to the rectorate, drawn at the top of the plan.",
+  "point": [
+   37.8,
+   16.9
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "coffee",
+  "nameBg": "Кафене",
+  "nameEn": "Coffee shop",
+  "wing": "center",
+  "kind": "service",
+  "aliases": [
+   "кафене",
+   "кафе",
+   "coffee",
+   "coffee shop",
+   "cofee",
+   "cofee shop"
+  ],
+  "point": [
+   59.6,
+   58.7
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "gallery-1",
+  "nameBg": "Галерия",
+  "nameEn": "Art gallery",
+  "wing": "north",
+  "kind": "service",
+  "aliases": [
+   "галерия",
+   "gallery",
+   "art gallery",
+   "изложба"
+  ],
+  "noteBg": "Една от двете галерии в северното крило, до входа към библиотеката.",
+  "noteEn": "One of two galleries in the north wing, by the library entrance.",
+  "point": [
+   9.2,
+   24.0
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "gallery-2",
+  "nameBg": "Галерия",
+  "nameEn": "Art gallery",
+  "wing": "north",
+  "kind": "service",
+  "aliases": [
+   "галерия 2",
+   "gallery 2"
+  ],
+  "noteBg": "Втората галерия в северното крило.",
+  "noteEn": "The second gallery in the north wing.",
+  "point": [
+   16.0,
+   24.0
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "bookstore-1",
+  "nameBg": "Книжарница",
+  "nameEn": "Bookstore",
+  "wing": "center",
+  "kind": "service",
+  "aliases": [
+   "книжарница",
+   "bookstore",
+   "книги",
+   "bookshop"
+  ],
+  "point": [
+   43.7,
+   80.4
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "bookstore-2",
+  "nameBg": "Книжарница",
+  "nameEn": "Bookstore",
+  "wing": "center",
+  "kind": "service",
+  "aliases": [
+   "книжарница 2",
+   "bookstore 2"
+  ],
+  "noteBg": "Втора книжарница, към церемониалния вход.",
+  "noteEn": "Second bookstore, toward the ceremonial entrance.",
+  "point": [
+   63.0,
+   70.3
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "council",
+  "nameBg": "Студентски съвет",
+  "nameEn": "Students' council",
+  "wing": "south",
+  "kind": "service",
+  "aliases": [
+   "студентски съвет",
+   "students council",
+   "student council",
+   "съвет"
+  ],
+  "point": [
+   82.3,
+   18.3
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "canteen",
+  "nameBg": "Студентски стол",
+  "nameEn": "Student canteen",
+  "wing": "north",
+  "kind": "service",
+  "aliases": [
+   "стол",
+   "столова",
+   "canteen",
+   "cafeteria",
+   "менза",
+   "студентски стол"
+  ],
+  "noteBg": "В северното крило, първи етаж.",
+  "noteEn": "North wing, first floor.",
+  "point": [
+   5.9,
+   72.7
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "entrance-north",
+  "nameBg": "Вход към библиотеката",
+  "nameEn": "Entrance by the library",
+  "wing": "north",
+  "kind": "entrance",
+  "aliases": [
+   "вход",
+   "entrance",
+   "вход библиотека",
+   "north entrance"
+  ],
+  "point": [
+   23.3,
+   19.2
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "entrance-court",
+  "nameBg": "Вход",
+  "nameEn": "Entrance",
+  "wing": "center",
+  "kind": "entrance",
+  "aliases": [
+   "вход двор",
+   "courtyard entrance",
+   "страничен вход"
+  ],
+  "point": [
+   62.8,
+   48.9
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "entrance-south",
+  "nameBg": "Вход, южно крило",
+  "nameEn": "South wing entrance",
+  "wing": "south",
+  "kind": "entrance",
+  "aliases": [
+   "южен вход",
+   "south entrance",
+   "вход юг"
+  ],
+  "point": [
+   63.8,
+   14.5
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "entrance-ceremonial",
+  "nameBg": "Церемониален вход",
+  "nameEn": "Ceremonial entrance",
+  "wing": "center",
+  "kind": "entrance",
+  "aliases": [
+   "церемониален вход",
+   "ceremonial entrance",
+   "главен вход",
+   "main entrance"
+  ],
+  "point": [
+   60.5,
+   83.4
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null,
+  "noteBg": null,
+  "noteEn": null
+ },
+ {
+  "id": "you-are-here",
+  "nameBg": "Вие сте тук",
+  "nameEn": "You are here",
+  "wing": "south",
+  "kind": "wayfinding",
+  "aliases": [
+   "вие сте тук",
+   "you are here",
+   "тук",
+   "here",
+   "аз съм"
+  ],
+  "noteBg": "Отправна точка на плана — източното фоайе на южното крило.",
+  "noteEn": "The plan's starting point — the east foyer of the south wing.",
+  "point": [
+   86.1,
+   41.8
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "wifi",
+  "nameBg": "SU-WiFi",
+  "nameEn": "SU-WiFi",
+  "wing": "south",
+  "kind": "service",
+  "aliases": [
+   "wifi",
+   "wi-fi",
+   "безжичен",
+   "su-wifi",
+   "сканирай"
+  ],
+  "noteBg": "QR кодът е в горния десен ъгъл на таблото. Сканирайте за SU-WiFi.",
+  "noteEn": "The QR code is in the top-right corner of the board. Scan it for SU-WiFi.",
+  "point": [
+   92.8,
+   16.9
+  ],
+  "onPlan": true,
+  "floor": 1,
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "aud-45",
+  "nameBg": "Аудитория 45",
+  "nameEn": "Auditorium 45",
+  "wing": "south",
+  "floor": 2,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "аудитория 45",
+   "auditorium 45",
+   "аула 45",
+   "45",
+   "aud 45"
+  ],
+  "noteBg": "Втори етаж, южно крило. Няма я на този план — следвайте розовите указатели.",
+  "noteEn": "Second floor, south wing. Not drawn on this plan — follow the magenta signs.",
+  "point": [
+   58.0,
+   24.0
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "aud-65",
+  "nameBg": "Аудитория 65",
+  "nameEn": "Auditorium 65",
+  "wing": "south",
+  "floor": 3,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "аудитория 65",
+   "auditorium 65",
+   "65",
+   "aud 65"
+  ],
+  "noteBg": "Трети етаж, южно крило. Няма я на този план — следвайте розовите указатели.",
+  "noteEn": "Third floor, south wing. Not drawn on this plan — follow the magenta signs.",
+  "point": [
+   58.0,
+   27.5
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "museum-mineral",
+  "nameBg": "Музей по минералогия, петрология и полезни изкопаеми",
+  "nameEn": "Museum of Mineralogy, Petrology and Minerals",
+  "wing": "south",
+  "floor": 5,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "минералогия",
+   "минерали",
+   "петрология",
+   "mineralogy",
+   "minerals",
+   "petrology"
+  ],
+  "noteBg": "Пети етаж, южно крило.",
+  "noteEn": "Fifth floor, south wing.",
+  "point": [
+   58.0,
+   33.5
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "conf-hall",
+  "nameBg": "Конферентна зала",
+  "nameEn": "Conference hall",
+  "wing": "north",
+  "floor": 2,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "конферентна",
+   "conference",
+   "conference hall"
+  ],
+  "noteBg": "Втори етаж, северно крило.",
+  "noteEn": "Second floor, north wing.",
+  "point": [
+   25.2,
+   29.9
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "spanish",
+  "nameBg": "Испаноезичен център",
+  "nameEn": "Spanish language centre",
+  "wing": "north",
+  "floor": 3,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "испански",
+   "испаноезичен",
+   "spanish",
+   "spanish language"
+  ],
+  "noteBg": "Трети етаж, северно крило.",
+  "noteEn": "Third floor, north wing.",
+  "point": [
+   25.2,
+   33.5
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "finance",
+  "nameBg": "Паричен салон",
+  "nameEn": "Finance and accounting",
+  "wing": "north",
+  "floor": 4,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "паричен",
+   "финанси",
+   "счетоводство",
+   "finance",
+   "accounting",
+   "cashier"
+  ],
+  "noteBg": "Четвърти етаж, северно крило.",
+  "noteEn": "Fourth floor, north wing.",
+  "point": [
+   25.2,
+   37.0
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "museum-su",
+  "nameBg": "Музей на Софийския университет",
+  "nameEn": "Sofia University Museum",
+  "wing": "north",
+  "floor": 5,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "музей на университета",
+   "музей су",
+   "university museum",
+   "sofia university museum"
+  ],
+  "noteBg": "Пети етаж, северно крило.",
+  "noteEn": "Fifth floor, north wing.",
+  "point": [
+   25.2,
+   41.2
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "climbing",
+  "nameBg": "Стена за катерене",
+  "nameEn": "Climbing wall",
+  "wing": "north",
+  "floor": 5,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "катерене",
+   "стена",
+   "climbing",
+   "climbing wall",
+   "boulder"
+  ],
+  "noteBg": "Пети етаж, северно крило.",
+  "noteEn": "Fifth floor, north wing.",
+  "point": [
+   25.2,
+   44.4
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "aud-241",
+  "nameBg": "Аудитории 241, 243, 245, 252",
+  "nameEn": "Auditoriums 241, 243, 245, 252",
+  "wing": "north",
+  "floor": 2,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "241",
+   "243",
+   "245",
+   "252",
+   "аудитория 241",
+   "auditorium 241"
+  ],
+  "noteBg": "Втори етаж, северно крило.",
+  "noteEn": "Second floor, north wing.",
+  "point": [
+   25.2,
+   54.3
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "aud-272",
+  "nameBg": "Аудитория 272",
+  "nameEn": "Auditorium 272",
+  "wing": "north",
+  "floor": 3,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "272",
+   "аудитория 272",
+   "auditorium 272"
+  ],
+  "noteBg": "Трети етаж, северно крило.",
+  "noteEn": "Third floor, north wing.",
+  "point": [
+   25.2,
+   58.4
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "aud-292",
+  "nameBg": "Аудитория 292",
+  "nameEn": "Auditorium 292",
+  "wing": "north",
+  "floor": 4,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "292",
+   "аудитория 292",
+   "auditorium 292"
+  ],
+  "noteBg": "Четвърти етаж, северно крило.",
+  "noteEn": "Fourth floor, north wing.",
+  "point": [
+   25.2,
+   61.4
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "museum-paleo",
+  "nameBg": "Музей по палеонтология и исторична геология",
+  "nameEn": "Museum of Paleontology and Historical Geology",
+  "wing": "north",
+  "floor": 5,
+  "onPlan": false,
+  "kind": "directory",
+  "aliases": [
+   "палеонтология",
+   "геология",
+   "paleontology",
+   "historical geology"
+  ],
+  "noteBg": "Пети етаж, северно крило.",
+  "noteEn": "Fifth floor, north wing.",
+  "point": [
+   25.2,
+   65.6
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "info-desk",
+  "nameBg": "Информация",
+  "nameEn": "Information",
+  "wing": "service",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "service",
+  "aliases": [
+   "информация",
+   "information",
+   "инфо",
+   "телефон"
+  ],
+  "noteBg": "(+359 2) 9308 563",
+  "noteEn": "(+359 2) 9308 563",
+  "point": [
+   7.6,
+   95.0
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "admissions",
+  "nameBg": "Прием студенти",
+  "nameEn": "Student admissions",
+  "wing": "service",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "service",
+  "aliases": [
+   "прием",
+   "прием студенти",
+   "admissions",
+   "students admission",
+   "кандидат"
+  ],
+  "noteBg": "(+359 2) 9308 400",
+  "noteEn": "(+359 2) 9308 400",
+  "point": [
+   23.5,
+   95.0
+  ],
+  "poly": null,
+  "code": null
+ },
+ {
+  "id": "erasmus",
+  "nameBg": "Еразъм+",
+  "nameEn": "Erasmus+",
+  "wing": "service",
+  "floor": 1,
+  "onPlan": true,
+  "kind": "service",
+  "aliases": [
+   "еразъм",
+   "erasmus",
+   "еразъм+",
+   "erasmus+"
+  ],
+  "noteBg": "(+359 2) 9308 422",
+  "noteEn": "(+359 2) 9308 422",
+  "point": [
+   40.3,
+   95.0
+  ],
+  "poly": null,
+  "code": null
+ }
+]

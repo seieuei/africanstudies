@@ -154,3 +154,145 @@ th { background: var(--sand); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; }
 }
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.finder { display: grid; gap: 0.75rem; }
+.finder-search { position: relative; }
+.finder-search input {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 0.75rem 2.8rem 0.75rem 1.05rem;
+  font: inherit;
+}
+.finder-search input:focus { outline: 2px solid var(--clay); outline-offset: 2px; }
+.finder-search input::-webkit-search-cancel-button { appearance: none; }
+.finder-clear {
+  position: absolute;
+  right: 0.35rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.2rem;
+  height: 2.2rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  font-size: 1.3rem;
+  line-height: 1;
+}
+.finder-list {
+  position: absolute;
+  z-index: 6;
+  left: 0;
+  right: 0;
+  top: calc(100% + 0.35rem);
+  margin: 0;
+  padding: 0.3rem;
+  list-style: none;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  max-height: 18rem;
+  overflow: auto;
+  box-shadow: 0 14px 32px rgba(28, 22, 18, 0.14);
+}
+.finder-list li { margin: 0; }
+.finder-list button {
+  width: 100%;
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  border-radius: 0.75rem;
+  padding: 0.55rem 0.6rem;
+}
+.finder-list button[aria-selected="true"] { background: var(--sand); }
+.finder-code {
+  width: 2.5rem;
+  height: 2.5rem;
+  flex: none;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--band);
+  color: var(--onband);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+.finder-names { min-width: 0; display: grid; }
+.finder-names strong, .finder-names span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.finder-names span, .finder-empty { color: var(--muted); font-size: 0.88rem; }
+.finder-empty { padding: 0.7rem 0.8rem; }
+.finder-other { margin-left: auto; flex: none; color: var(--clay); font-size: 0.75rem; font-weight: 700; }
+.finder-chips { display: flex; gap: 0.4rem; overflow-x: auto; padding-bottom: 0.15rem; }
+.finder-chips button {
+  flex: none;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  padding: 0.4rem 0.8rem;
+}
+.finder-chips button.on { background: var(--band); color: var(--onband); border-color: var(--band); }
+.finder-stage {
+  position: relative;
+  height: min(72vh, 40rem);
+  min-height: 18rem;
+  border: 1px solid var(--line);
+  border-radius: 1.25rem;
+  overflow: hidden;
+  background: var(--sand);
+  touch-action: none;
+  cursor: grab;
+}
+.finder-stage:active { cursor: grabbing; }
+.finder-world { position: absolute; top: 0; left: 0; transform-origin: 0 0; }
+.finder-world img { display: block; width: 100%; height: 100%; user-select: none; -webkit-user-drag: none; }
+.finder-world svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.finder-pin {
+  position: absolute;
+  z-index: 2;
+  width: 0.75rem;
+  height: 0.75rem;
+  margin: -0.4rem 0 0 -0.4rem;
+  border-radius: 99px;
+  background: var(--band);
+  border: 2px solid var(--gold);
+  pointer-events: none;
+}
+.finder-pin span {
+  position: absolute;
+  left: 0.95rem;
+  top: -0.28rem;
+  white-space: nowrap;
+  background: var(--band);
+  color: var(--onband);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+}
+.finder-zoom { position: absolute; top: 0.6rem; right: 0.6rem; display: flex; flex-direction: column; gap: 0.35rem; z-index: 3; }
+.finder-zoom button {
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  font-size: 1.15rem;
+}
+.finder-card { background: var(--card); border: 1px solid var(--line); border-radius: 1.25rem; padding: 1rem 1.1rem; box-shadow: inset 0 3px 0 var(--clay); }
+.finder-card h2 { margin: 0; font-size: 1.6rem; }
+.finder-card-head { display: flex; justify-content: space-between; gap: 0.75rem; align-items: flex-start; }
+.finder-card .finder-clear { position: static; transform: none; }
+.finder-where { margin: 0.7rem 0 0; font-weight: 700; color: var(--heading); }
+.finder-off { margin: 0.7rem 0 0; padding: 0.55rem 0.7rem; border-radius: 0.7rem; background: color-mix(in srgb, var(--clay) 14%, var(--card)); font-weight: 700; }
+.finder-pulse { animation: finder-pulse 1.5s ease-out infinite; }
+@keyframes finder-pulse { 50% { opacity: 0.25; } }

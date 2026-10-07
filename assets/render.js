@@ -202,7 +202,7 @@ function rektorat() {
     ["533 / 536", ui.roomBlock],
   ];
   return head(ui.mapKicker, ui.mapTitle, ui.mapLead) +
-    `<div class="wrap"><figure class="card mapfig"><img src="maps/rectorate-first-floor.jpg" alt="${esc(ui.mapAlt)}"><figcaption>${esc(ui.mapCaption)}</figcaption></figure><p><a href="maps/rectorate-first-floor.pdf">${esc(ui.mapPdf)}</a></p><h2>${esc(ui.roomsTitle)}</h2><p class="muted">${esc(ui.roomsLead)}</p><div class="grid-2">${rooms.map(([n, b]) => `<article class="card"><h3>${esc(n)}</h3><p>${esc(b)}</p></article>`).join("")}</div><p><a href="razpis.html">${esc(ui.toSchedule)}</a></p></div>`;
+    `<div class="wrap"><div id="finder"><figure class="card mapfig"><img src="maps/rectorate-first-floor.jpg" alt="${esc(ui.mapAlt)}"></figure></div><p class="muted">${esc(ui.mapCaption)}</p><p><a href="maps/rectorate-first-floor.pdf">${esc(ui.mapPdf)}</a></p><h2>${esc(ui.roomsTitle)}</h2><p class="muted">${esc(ui.roomsLead)}</p><div class="grid-2">${rooms.map(([n, b]) => `<article class="card"><h3>${esc(n)}</h3><p>${esc(b)}</p></article>`).join("")}</div><p><a href="razpis.html">${esc(ui.toSchedule)}</a></p></div>`;
 }
 
 function ekip() {
@@ -276,3 +276,9 @@ document.querySelectorAll("[data-year]").forEach((btn) => {
     location.href = url.pathname + url.search;
   });
 });
+
+if (page === "rektorat") {
+  import("../maps/finder.js").then(({ mountFinder }) => {
+    mountFinder(document.getElementById("finder"), lang);
+  });
+}
